@@ -6,7 +6,6 @@
 [![Paper](https://img.shields.io/badge/Journal-J._Electrocardiology_2025-brightgreen.svg)](https://doi.org/10.1016/j.jelectrocard.2025.153894)
 
 > **Paper Title:** A new VCG signal compression technique based on discrete Karhunen-Loeve expansion and tunable quality wavelet transform  
-> **Authors:** Ronak Vimal, A. Kumar, Aditya Tiwari *(PDPM-IIITDM Jabalpur)*  
 > **Journal:** Journal of Electrocardiology (Published 2025) | **DOI:** [10.1016/j.jelectrocard.2025.153894](https://doi.org/10.1016/j.jelectrocard.2025.153894)
 
 ---
@@ -214,22 +213,11 @@ The proposed pipeline is lightweight ($O(N \log N)$ complexity, requiring **<0.0
 
 ---
 
-## 📜 Citation & References
+## 📜 Paper Reference
 
-If you use this codebase or pipeline in your research, please cite the original paper:
-
-```bibtex
-@article{vimal2025vcg,
-  title={A new VCG signal compression technique based on discrete Karhunen-Loeve expansion and tunable quality wavelet transform},
-  author={Vimal, Ronak and Kumar, A. and Tiwari, Aditya},
-  journal={Journal of Electrocardiology},
-  volume={88},
-  pages={153894},
-  year={2025},
-  publisher={Elsevier},
-  doi={10.1016/j.jelectrocard.2025.153894}
-}
-```
+* **Title**: A new VCG signal compression technique based on discrete Karhunen-Loeve expansion and tunable quality wavelet transform
+* **Journal**: Journal of Electrocardiology (2025)
+* **DOI**: [10.1016/j.jelectrocard.2025.153894](https://doi.org/10.1016/j.jelectrocard.2025.153894)
 
 ---
 

@@ -32,12 +32,12 @@ Due to the computational speed (0.076s processing time) and high signal fidelity
 
 ## 7. Historical Context & Literature Limitations
 
-According to the study's review of prior research (Fig. 1), previous VCG/ECG compression schemes had key limitations:
+According to the study's review of prior research, previous VCG/ECG compression schemes had key limitations:
 
-* **Wombe et al. [17] (Discrete KL Expansion)**: Achieved a CR of 12:1 but suffered from high computational complexity, lacked a fast inverse algorithm, and was limited to a low sampling rate (250 Hz). No PRD was computed.
-* **Dyer et al. [18] (2D DCT & 2D WHT)**: Produced low compression ratios (2:1 to 5:1), did not calculate reconstruction distortion (PRD), and used a low sampling rate (250 Hz).
-* **Piotr Augustyniak [19] (Huffman + DCT)**: Achieved CRs of 3.02 and 4.15, but at the cost of clinically unacceptable distortion (PRD of 16.9% to 17.2%). Additionally, the dataset used was proprietary.
-* **Janeja et al. [20] (Adaptive Linear Prediction)**: Maintained an acceptable PRD range but achieved low compression ratios (3.857 and 4.45).
+* **Discrete KL Expansion**: Achieved a CR of 12:1 but suffered from high computational complexity, lacked a fast inverse algorithm, and was limited to a low sampling rate (250 Hz). No PRD was computed.
+* **2D DCT & 2D WHT**: Produced low compression ratios (2:1 to 5:1), did not calculate reconstruction distortion (PRD), and used a low sampling rate (250 Hz).
+* **Huffman + DCT**: Achieved CRs of 3.02 and 4.15, but at the cost of clinically unacceptable distortion (PRD of 16.9% to 17.2%). Additionally, the dataset used was proprietary.
+* **Adaptive Linear Prediction**: Maintained an acceptable PRD range but achieved low compression ratios (3.857 and 4.45).
 
 ---
 

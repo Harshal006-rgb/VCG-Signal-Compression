@@ -1,7 +1,6 @@
 # 🫀 VCG Signal Compression: Discrete K-L Expansion & Tunable Quality Wavelet Transform
 
 > **Paper Title:** A new VCG signal compression technique based on discrete Karhunen-Loeve expansion and tunable quality wavelet transform
-> **Authors:** Ronak Vimal, A. Kumar, Aditya Tiwari *(PDPM-Indian Institute of Information Technology Design and Manufacturing, Jabalpur)*
 > **Journal:** Journal of Electrocardiology (Published Online: 8 February 2025)
 > **DOI:** [10.1016/j.jelectrocard.2025.153894](https://doi.org/10.1016/j.jelectrocard.2025.153894)
 
@@ -56,11 +55,11 @@ The proposed method shows clear superiority over previous compression techniques
 | Compression Scheme | Compression Ratio (CR) | Signal Quality (PRD / Distortion) | Reconstruction Fidelity | Key Characteristics / Limitations |
 | :--- | :---: | :---: | :---: | :--- |
 | **Proposed Method (K-L + TQWT + RLE)** | **15.43** | **7.39%** (Good) | **99.72%** | **High efficiency, fast (0.076s per record), real-time ready.** |
-| Wavelet + Zero-Zone + Huffman [14] | Moderate | Low | High | Standard energy packing, but complex Huffman tables. |
-| Wavelet + Dead-Zone + Modified RLE [15] | High | Moderate | Medium | Improved CR but higher distortion. |
-| Walsh-Hadamard / DCT [18] | 2.0 – 5.0 | High | Low | Low compression performance. |
-| Huffman + DCT [19] | 3.02 – 4.15 | 16.9% – 17.2% (Unsatisfactory) | Low | High distortion (PRD > 10% is clinically unacceptable). |
-| VLSI Architecture [20] | 3.857 – 4.45 | Low | High | Targetted for low-power hardware, but low CR. |
+| Wavelet + Zero-Zone + Huffman | Moderate | Low | High | Standard energy packing, but complex Huffman tables. |
+| Wavelet + Dead-Zone + Modified RLE | High | Moderate | Medium | Improved CR but higher distortion. |
+| Walsh-Hadamard / DCT | 2.0 – 5.0 | High | Low | Low compression performance. |
+| Huffman + DCT | 3.02 – 4.15 | 16.9% – 17.2% (Unsatisfactory) | Low | High distortion (PRD > 10% is clinically unacceptable). |
+| VLSI Architecture | 3.857 – 4.45 | Low | High | Targetted for low-power hardware, but low CR. |
 
 ---
 
