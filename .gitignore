@@ -1,0 +1,14 @@
+# Ignore raw database and large datasets
+ptb-diagnostic-ecg-database-1.0.0/
+*.zip
+
+# Ignore generated preprocessed cache data
+vcg_data/
+
+# Ignore Python runtime cache
+__pycache__/
+*.pyc
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
