@@ -5,8 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Paper](https://img.shields.io/badge/Journal-J._Electrocardiology_2025-brightgreen.svg)](https://doi.org/10.1016/j.jelectrocard.2025.153894)
 
-> **Paper Title:** A new VCG signal compression technique based on discrete Karhunen-Loeve expansion and tunable quality wavelet transform  
-> **Journal:** Journal of Electrocardiology (Published 2025) | **DOI:** [10.1016/j.jelectrocard.2025.153894](https://doi.org/10.1016/j.jelectrocard.2025.153894)
+> **Paper Title:** A new VCG signal compression technique based on discrete Karhunen-Loeve expansion and tunable quality wavelet transform
 
 ---
 
