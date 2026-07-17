@@ -213,13 +213,3 @@ The proposed pipeline is lightweight ($O(N \log N)$ complexity, requiring **<0.0
 
 ---
 
-## 📜 Paper Reference
-
-* **Title**: A new VCG signal compression technique based on discrete Karhunen-Loeve expansion and tunable quality wavelet transform
-* **Journal**: Journal of Electrocardiology (2025)
-* **DOI**: [10.1016/j.jelectrocard.2025.153894](https://doi.org/10.1016/j.jelectrocard.2025.153894)
-
----
-
-## 📄 License
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
